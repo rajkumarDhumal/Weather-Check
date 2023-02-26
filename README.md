@@ -1,4 +1,4 @@
-#Weather Check
+# Weather Check
 
 Weather Check is a Spring Boot application that allows users to retrieve weather information by providing a pincode and date. The application makes use of an API to fetch weather data based on the user's input.
 
