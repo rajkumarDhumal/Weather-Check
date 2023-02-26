@@ -39,6 +39,6 @@ The application makes use of Swagger to provide API documentation. To view the d
 
 Technologies Used
 
-Spring Boot
-Swagger
+Spring Boot, 
+Swagger, 
 Java 
